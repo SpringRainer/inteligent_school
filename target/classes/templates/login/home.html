@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>系统主页</title>
+    <script src="/static/javascript/vue.js" type="text/javascript"></script>
+    <script src="/static/javascript/axios.min.js"></script>
+    <link rel="stylesheet" href="/static/css/bootstrap.css">
+    <style>
+        .row>div {
+            margin-top: 100px;
+            margin-right: 50px;
+            height: fit-content;
+            background-color: orange;
+
+        }
+
+        a {
+            color: black;
+            font-size: 25px;
+            align-content: center;
+            border-style: none;
+            text-decoration: none;
+            user-select: none;
+            display: block;
+            padding: 20px 20px;
+        }
+
+        .row>div:link {
+            background-color: orange;
+        }
+
+        .row>div:visited {
+            background-color: deepskyblue;
+        }
+
+        .row>div:hover {
+            background-color: tomato;
+        }
+
+        .row>div:active {
+            background-color: red;
+        }
+
+        a:link {color: black;text-decoration: none}
+        a:visited {color: black}
+        a:hover {color: black}
+        a:active {color: black}
+
+        /*@keyframes expand {*/
+        /*    from {*/
+        /*        background-color: orange;*/
+        /*    }*/
+
+        /*    to {*/
+        /*        background-color: tomato;*/
+        /*    }*/
+        /*}*/
+    </style>
+</head>
+<body>
+欢迎来到系统主页
+<div class="container">
+    <div class="row">
+    <div class="col-md-3"><a href="/teacher_check">教师批改试卷</a></div>
+    <div class="col-md-3"><a href="/teacher_login_grade">教师导出学生成绩</a></div>
+    <div class="col-md-3"><a href="/teacher_check_homework">教师批改作业</a></div>
+    </div>
+    <div class="row">
+    <div class="col-md-3"><a href="/student_grade_query">学生成绩查询入口</a></div>
+    <div class="col-md-3"><a href="#">教师教学质量评价</a></div>
+    <div class="col-md-3"><a href="/paper_scanner">试卷扫描</a></div>
+    <div class="col-md-3"><a href="#">其他</a></div>
+    </div>
+</div>
+</body>
+</html>
