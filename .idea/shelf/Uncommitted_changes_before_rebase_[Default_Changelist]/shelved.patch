@@ -1,0 +1,255 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"BranchesTreeState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0f943a9c-daea-4737-86dc-493608319097\" name=\"Default Changelist\" comment=\"asd\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/dictionaries/WB1500.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/jarRepositories.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/inteligent_school.iml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/boot_8080.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/configuration/configuration_shiro.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/controller/login_controller.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/controller/page_controller.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/controller/student_pages_controller.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/controller/teacher_pages_controller.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/dao/service/grade.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/dao/service/paper.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/dao/service/student.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/dao/service/subject.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/dao/service/teacher.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/dao/shiro/shiro_check_information.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/domain/grade_all_information.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/domain/grade_information.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/domain/paper_information.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/domain/paper_subject_information.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/domain/shiro_roleAndPermission.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/domain/student_information.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/domain/subject_information.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/domain/teacher_information.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/service/Shiro_authorize.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/service/grade_statistics.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/service/paper_check_query.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/service/paper_scanner.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/example/service/teacher_work.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/application.properties\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/static/javascript/axios.min.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/static/javascript/jquery.qrcode.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/static/javascript/vue.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/templates/exception/404.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/templates/login/home.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/templates/login/login.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/templates/paper/paper_scanner.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/templates/student/student_grade_query.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/templates/teacher/teacher_check.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/templates/teacher/teacher_check_homework.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/templates/teacher/teacher_login_grade.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/com/example/realm_test_01.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/application.properties\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/boot_8080.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/configuration/configuration_shiro.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/configuration/shiro_realm.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/controller/login_controller.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/controller/page_controller.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/controller/student_pages_controller.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/controller/teacher_pages_controller.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/dao/service/grade.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/dao/service/paper.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/dao/service/student.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/dao/service/subject.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/dao/service/teacher.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/dao/shiro/shiro_check_information.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/domain/grade_all_information.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/domain/grade_information.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/domain/paper_information.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/domain/paper_subject_information.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/domain/shiro_roleAndPermission.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/domain/student_information.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/domain/subject_information.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/domain/teacher_information.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/service/Shiro_authorize.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/service/grade_statistics.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/service/paper_check_query.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/service/paper_scanner.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/com/example/service/teacher_work.class\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/static/css/bootstrap.css\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/static/javascript/axios.min.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/static/javascript/jquery.qrcode.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/static/javascript/vue.js\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/templates/exception/404.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/templates/login/home.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/templates/login/login.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/templates/paper/paper_scanner.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/templates/student/student_grade_query.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/templates/teacher/teacher_check.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/templates/teacher/teacher_check_homework.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/classes/templates/teacher/teacher_login_grade.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/target/test-classes/com/example/realm_test_01.class\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\r\n  </component>\r\n  <component name=\"JupyterTrust\" id=\"be892f89-1b30-4735-bd7d-9ebb33ef7f92\" />\r\n  <component name=\"ProjectId\" id=\"23IsoLezng8DVemDmyGjMjX7ZsW\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ChangesTree.GroupingKeys\" value=\"module&#10;directory&#10;repository\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RequestMappingsPanelOrder0\" value=\"0\" />\r\n    <property name=\"RequestMappingsPanelOrder1\" value=\"1\" />\r\n    <property name=\"RequestMappingsPanelWidth0\" value=\"75\" />\r\n    <property name=\"RequestMappingsPanelWidth1\" value=\"75\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"aspect.path.notification.shown\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Modules\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"MavenSettings\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\WB1500\\IdeaProjects\\inteligent_school\\src\\main\\resources\\templates\\exception\" />\r\n      <recent name=\"C:\\Users\\WB1500\\IdeaProjects\\inteligent_school\\src\\main\\resources\\templates\\paper\" />\r\n      <recent name=\"C:\\Users\\WB1500\\IdeaProjects\\inteligent_school\\src\\main\\resources\\templates\\login\" />\r\n      <recent name=\"C:\\Users\\WB1500\\IdeaProjects\\inteligent_school\\src\\main\\resources\\templates\\teacher\" />\r\n      <recent name=\"C:\\Users\\WB1500\\IdeaProjects\\inteligent_school\\src\\main\\resources\\templates\\student\" />\r\n    </key>\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\WB1500\\IdeaProjects\\inteligent_school\\src\\main\\resources\\static\\javascript\" />\r\n      <recent name=\"C:\\Users\\WB1500\\IdeaProjects\\inteligent_school\\src\\main\\resources\\static\\css\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Spring Boot.boot_8080\">\r\n    <configuration default=\"true\" type=\"ArquillianJUnit\" factoryName=\"\" nameIsGenerated=\"true\">\r\n      <option name=\"arquillianRunConfiguration\">\r\n        <value>\r\n          <option name=\"containerStateName\" value=\"\" />\r\n        </value>\r\n      </option>\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"realm_test_01.domain_test_01\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"inteligent_school\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"com.example\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.realm_test_01\" />\r\n      <option name=\"METHOD_NAME\" value=\"domain_test_01\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"realm_test_01.domain_test_02\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"inteligent_school\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"com.example\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.realm_test_01\" />\r\n      <option name=\"METHOD_NAME\" value=\"domain_test_02\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"realm_test_01.domain_test_03\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"inteligent_school\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"com.example\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.realm_test_01\" />\r\n      <option name=\"METHOD_NAME\" value=\"domain_test_03\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"realm_test_01.domain_test_04\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"inteligent_school\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"com.example\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.example.realm_test_01\" />\r\n      <option name=\"METHOD_NAME\" value=\"domain_test_04\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"boot_8080\" type=\"SpringBootApplicationConfigurationType\" factoryName=\"Spring Boot\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"inteligent_school\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.example.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"SPRING_BOOT_MAIN_CLASS\" value=\"com.example.boot_8080\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Spring Boot.boot_8080\" />\r\n        <item itemvalue=\"JUnit.realm_test_01.domain_test_02\" />\r\n        <item itemvalue=\"JUnit.realm_test_01.domain_test_04\" />\r\n        <item itemvalue=\"JUnit.realm_test_01.domain_test_03\" />\r\n        <item itemvalue=\"JUnit.realm_test_01.domain_test_01\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"project-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0f943a9c-daea-4737-86dc-493608319097\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1641433108216</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1641433108216</updated>\r\n      <workItem from=\"1641433111079\" duration=\"15452000\" />\r\n      <workItem from=\"1641517986262\" duration=\"13854000\" />\r\n      <workItem from=\"1641776093670\" duration=\"5516000\" />\r\n      <workItem from=\"1641862441345\" duration=\"9377000\" />\r\n      <workItem from=\"1641889449271\" duration=\"2555000\" />\r\n      <workItem from=\"1641950125518\" duration=\"16075000\" />\r\n      <workItem from=\"1642036646562\" duration=\"4838000\" />\r\n      <workItem from=\"1642121502798\" duration=\"6380000\" />\r\n      <workItem from=\"1642130036106\" duration=\"155000\" />\r\n      <workItem from=\"1642130228704\" duration=\"9491000\" />\r\n      <workItem from=\"1642380834283\" duration=\"10123000\" />\r\n      <workItem from=\"1642466981584\" duration=\"9716000\" />\r\n      <workItem from=\"1642553921923\" duration=\"7910000\" />\r\n      <workItem from=\"1642574908770\" duration=\"9443000\" />\r\n      <workItem from=\"1642642819701\" duration=\"7723000\" />\r\n      <workItem from=\"1642726564317\" duration=\"5108000\" />\r\n      <workItem from=\"1642733647694\" duration=\"12795000\" />\r\n      <workItem from=\"1644911412872\" duration=\"2662000\" />\r\n      <workItem from=\"1644914428856\" duration=\"56000\" />\r\n      <workItem from=\"1644914514957\" duration=\"127000\" />\r\n      <workItem from=\"1644914672700\" duration=\"1114000\" />\r\n      <workItem from=\"1644972578413\" duration=\"19780000\" />\r\n      <workItem from=\"1645059342259\" duration=\"17322000\" />\r\n      <workItem from=\"1645145709455\" duration=\"3521000\" />\r\n      <workItem from=\"1645151989046\" duration=\"13098000\" />\r\n      <workItem from=\"1645187819410\" duration=\"4815000\" />\r\n      <workItem from=\"1645972320839\" duration=\"1519000\" />\r\n      <workItem from=\"1647529493725\" duration=\"2473000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"asd\">\r\n      <created>1647533936972</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1647533936972</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"1\">\r\n          <value>\r\n            <State>\r\n              <option name=\"SHOW_ONLY_AFFECTED_CHANGES\" value=\"true\" />\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"roots\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"$PROJECT_DIR$\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"OPEN_GENERIC_TABS\">\r\n      <map>\r\n        <entry key=\"1\" value=\"TOOL_WINDOW\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"commit\" />\r\n    <MESSAGE value=\"asd\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"asd\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"281\" y=\"30\" key=\"#Deployment\" timestamp=\"1647533003180\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"281\" y=\"30\" key=\"#Deployment/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533003180\" />\r\n    <state x=\"469\" y=\"127\" key=\"FileChooserDialogImpl\" timestamp=\"1647533176214\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"469\" y=\"127\" key=\"FileChooserDialogImpl/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533176214\" />\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1647533395386\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.0.bottom/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533395386\" />\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.0.center\" timestamp=\"1647533395386\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.0.center/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533395386\" />\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.0.left\" timestamp=\"1647533395386\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.0.left/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533395386\" />\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.0.right\" timestamp=\"1647533395386\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.0.right/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533395386\" />\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.1.bottom\" timestamp=\"1647533395386\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.1.bottom/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533395386\" />\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.1.center\" timestamp=\"1647533395386\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.1.center/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533395386\" />\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.1.left\" timestamp=\"1647533395386\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.1.left/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533395386\" />\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.1.right\" timestamp=\"1647533395386\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state width=\"1333\" height=\"210\" key=\"GridCell.Tab.1.right/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533395386\" />\r\n    <state x=\"423\" y=\"92\" key=\"RollbackChangesDialog\" timestamp=\"1647533732131\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"423\" y=\"92\" key=\"RollbackChangesDialog/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533732131\" />\r\n    <state x=\"190\" y=\"16\" key=\"SettingsEditor\" timestamp=\"1645187919389\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"190\" y=\"16\" key=\"SettingsEditor/0.0.1376.744@0.0.1376.744\" timestamp=\"1645187919389\" />\r\n    <state x=\"281\" y=\"105\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1647533221858\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"281\" y=\"105\" key=\"Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533221858\" />\r\n    <state x=\"445\" y=\"106\" key=\"com.intellij.openapi.vcs.changes.SpecificFilesViewDialog\" timestamp=\"1647533128767\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"445\" y=\"106\" key=\"com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533128767\" />\r\n    <state x=\"502\" y=\"285\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1647533237455\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"502\" y=\"285\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533237455\" />\r\n    <state x=\"380\" y=\"250\" key=\"git4idea.remote.GitConfigureRemotesDialog\" timestamp=\"1647533866817\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"380\" y=\"250\" key=\"git4idea.remote.GitConfigureRemotesDialog/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533866817\" />\r\n    <state x=\"448\" y=\"160\" key=\"git4idea.ui.GitUnstashDialog\" timestamp=\"1647533519974\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"448\" y=\"160\" key=\"git4idea.ui.GitUnstashDialog/0.0.1376.744@0.0.1376.744\" timestamp=\"1647533519974\" />\r\n    <state x=\"411\" y=\"283\" key=\"vcs.readOnlyHandler.ReadOnlyStatusDialog\" timestamp=\"1645973017582\">\r\n      <screen x=\"0\" y=\"0\" width=\"1376\" height=\"744\" />\r\n    </state>\r\n    <state x=\"411\" y=\"283\" key=\"vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1376.744@0.0.1376.744\" timestamp=\"1645973017582\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 9eef07ee5b15d21f4b884f192fea29e1e8cd7d33)
++++ .idea/workspace.xml	(date 1647534614465)
+@@ -8,99 +8,13 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="asd">
+-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/WB1500.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/inteligent_school.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/boot_8080.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/configuration/configuration_shiro.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/login_controller.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/page_controller.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/student_pages_controller.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/teacher_pages_controller.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dao/service/grade.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dao/service/paper.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dao/service/student.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dao/service/subject.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dao/service/teacher.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dao/shiro/shiro_check_information.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/grade_all_information.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/grade_information.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/paper_information.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/paper_subject_information.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/shiro_roleAndPermission.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/student_information.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/subject_information.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/domain/teacher_information.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/Shiro_authorize.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/grade_statistics.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/paper_check_query.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/paper_scanner.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/service/teacher_work.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/javascript/axios.min.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/javascript/jquery.qrcode.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/javascript/vue.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/exception/404.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login/home.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login/login.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/paper/paper_scanner.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/student/student_grade_query.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/teacher/teacher_check.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/teacher/teacher_check_homework.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/teacher/teacher_login_grade.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/realm_test_01.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/boot_8080.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/configuration/configuration_shiro.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/configuration/shiro_realm.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/login_controller.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/page_controller.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/student_pages_controller.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/controller/teacher_pages_controller.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/grade.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/paper.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/student.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/subject.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/teacher.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/dao/shiro/shiro_check_information.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/domain/grade_all_information.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/domain/grade_information.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/domain/paper_information.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/domain/paper_subject_information.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/domain/shiro_roleAndPermission.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/domain/student_information.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/domain/subject_information.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/domain/teacher_information.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/Shiro_authorize.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/grade_statistics.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/paper_check_query.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/paper_scanner.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/service/teacher_work.class" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap.css" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/static/javascript/axios.min.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/static/javascript/jquery.qrcode.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/static/javascript/vue.js" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/templates/exception/404.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/templates/login/home.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/templates/login/login.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/templates/paper/paper_scanner.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/templates/student/student_grade_query.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/templates/teacher/teacher_check.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/templates/teacher/teacher_check_homework.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/classes/templates/teacher/teacher_login_grade.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/example/realm_test_01.class" afterDir="false" />
++    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="可以">
++      <change afterPath="$PROJECT_DIR$/../eurekaserver/eurekaserver.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../eurekaserver/pom.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../eurekaserver/src/main/java/com/maindemo.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../eurekaserver/src/main/resources/application.yml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../eurekaserver/target/classes/application.yml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/../eurekaserver/target/classes/com/maindemo.class" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -121,6 +35,13 @@
+     <option name="ROOT_SYNC" value="SYNC" />
+   </component>
+   <component name="JupyterTrust" id="be892f89-1b30-4735-bd7d-9ebb33ef7f92" />
++  <component name="MavenImportPreferences">
++    <option name="generalSettings">
++      <MavenGeneralSettings>
++        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
++      </MavenGeneralSettings>
++    </option>
++  </component>
+   <component name="ProjectId" id="23IsoLezng8DVemDmyGjMjX7ZsW" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+@@ -292,7 +213,7 @@
+       <workItem from="1645151989046" duration="13098000" />
+       <workItem from="1645187819410" duration="4815000" />
+       <workItem from="1645972320839" duration="1519000" />
+-      <workItem from="1647529493725" duration="2473000" />
++      <workItem from="1647529493725" duration="3059000" />
+     </task>
+     <task id="LOCAL-00001" summary="asd">
+       <created>1647533936972</created>
+@@ -301,7 +222,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1647533936972</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="可以">
++      <created>1647534091950</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1647534091950</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -346,7 +274,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="commit" />
+     <MESSAGE value="asd" />
+-    <option name="LAST_COMMIT_MESSAGE" value="asd" />
++    <MESSAGE value="可以" />
++    <option name="LAST_COMMIT_MESSAGE" value="可以" />
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="281" y="30" key="#Deployment" timestamp="1647533003180">
+@@ -357,38 +286,38 @@
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+     <state x="469" y="127" key="FileChooserDialogImpl/0.0.1376.744@0.0.1376.744" timestamp="1647533176214" />
+-    <state width="1333" height="210" key="GridCell.Tab.0.bottom" timestamp="1647533395386">
++    <state width="1333" height="210" key="GridCell.Tab.0.bottom" timestamp="1647534402044">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state width="1333" height="210" key="GridCell.Tab.0.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647533395386" />
+-    <state width="1333" height="210" key="GridCell.Tab.0.center" timestamp="1647533395386">
++    <state width="1333" height="210" key="GridCell.Tab.0.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
++    <state width="1333" height="210" key="GridCell.Tab.0.center" timestamp="1647534402044">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state width="1333" height="210" key="GridCell.Tab.0.center/0.0.1376.744@0.0.1376.744" timestamp="1647533395386" />
+-    <state width="1333" height="210" key="GridCell.Tab.0.left" timestamp="1647533395386">
++    <state width="1333" height="210" key="GridCell.Tab.0.center/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
++    <state width="1333" height="210" key="GridCell.Tab.0.left" timestamp="1647534402044">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state width="1333" height="210" key="GridCell.Tab.0.left/0.0.1376.744@0.0.1376.744" timestamp="1647533395386" />
+-    <state width="1333" height="210" key="GridCell.Tab.0.right" timestamp="1647533395386">
++    <state width="1333" height="210" key="GridCell.Tab.0.left/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
++    <state width="1333" height="210" key="GridCell.Tab.0.right" timestamp="1647534402044">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state width="1333" height="210" key="GridCell.Tab.0.right/0.0.1376.744@0.0.1376.744" timestamp="1647533395386" />
+-    <state width="1333" height="210" key="GridCell.Tab.1.bottom" timestamp="1647533395386">
++    <state width="1333" height="210" key="GridCell.Tab.0.right/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
++    <state width="1333" height="210" key="GridCell.Tab.1.bottom" timestamp="1647534402045">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state width="1333" height="210" key="GridCell.Tab.1.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647533395386" />
+-    <state width="1333" height="210" key="GridCell.Tab.1.center" timestamp="1647533395386">
++    <state width="1333" height="210" key="GridCell.Tab.1.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647534402045" />
++    <state width="1333" height="210" key="GridCell.Tab.1.center" timestamp="1647534402044">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state width="1333" height="210" key="GridCell.Tab.1.center/0.0.1376.744@0.0.1376.744" timestamp="1647533395386" />
+-    <state width="1333" height="210" key="GridCell.Tab.1.left" timestamp="1647533395386">
++    <state width="1333" height="210" key="GridCell.Tab.1.center/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
++    <state width="1333" height="210" key="GridCell.Tab.1.left" timestamp="1647534402044">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state width="1333" height="210" key="GridCell.Tab.1.left/0.0.1376.744@0.0.1376.744" timestamp="1647533395386" />
+-    <state width="1333" height="210" key="GridCell.Tab.1.right" timestamp="1647533395386">
++    <state width="1333" height="210" key="GridCell.Tab.1.left/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
++    <state width="1333" height="210" key="GridCell.Tab.1.right" timestamp="1647534402044">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state width="1333" height="210" key="GridCell.Tab.1.right/0.0.1376.744@0.0.1376.744" timestamp="1647533395386" />
++    <state width="1333" height="210" key="GridCell.Tab.1.right/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
+     <state x="423" y="92" key="RollbackChangesDialog" timestamp="1647533732131">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+@@ -397,22 +326,26 @@
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+     <state x="190" y="16" key="SettingsEditor/0.0.1376.744@0.0.1376.744" timestamp="1645187919389" />
+-    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647533221858">
++    <state x="473" y="284" key="VCS.ChangelistChooser" timestamp="1647534361232">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647533221858" />
+-    <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1647533128767">
++    <state x="473" y="284" key="VCS.ChangelistChooser/0.0.1376.744@0.0.1376.744" timestamp="1647534361232" />
++    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647534611521">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1376.744@0.0.1376.744" timestamp="1647533128767" />
+-    <state x="502" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647533237455">
++    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647534611521" />
++    <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1647534392636">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state x="502" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.744@0.0.1376.744" timestamp="1647533237455" />
+-    <state x="380" y="250" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1647533866817">
++    <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1376.744@0.0.1376.744" timestamp="1647534392636" />
++    <state x="502" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647534151322">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
+-    <state x="380" y="250" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1376.744@0.0.1376.744" timestamp="1647533866817" />
++    <state x="502" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.744@0.0.1376.744" timestamp="1647534151322" />
++    <state x="380" y="250" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1647534298410">
++      <screen x="0" y="0" width="1376" height="744" />
++    </state>
++    <state x="380" y="250" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1376.744@0.0.1376.744" timestamp="1647534298410" />
+     <state x="448" y="160" key="git4idea.ui.GitUnstashDialog" timestamp="1647533519974">
+       <screen x="0" y="0" width="1376" height="744" />
+     </state>
