@@ -79,6 +79,17 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.boot_8080">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="realm_test_01.domain_test_01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inteligent_school" />
       <extension name="coverage">
@@ -205,7 +216,7 @@
       <workItem from="1645187819410" duration="4815000" />
       <workItem from="1645972320839" duration="1519000" />
       <workItem from="1647529493725" duration="3059000" />
-      <workItem from="1647617618107" duration="712000" />
+      <workItem from="1647617618107" duration="2449000" />
     </task>
     <task id="LOCAL-00001" summary="asd">
       <created>1647533936972</created>
@@ -262,11 +273,6 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="1" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -280,10 +286,14 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="281" y="30" key="#Deployment/0.0.1376.744@0.0.1376.744" timestamp="1647533003180" />
-    <state x="469" y="127" key="FileChooserDialogImpl" timestamp="1647533176214">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1647619726527">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="469" y="127" key="FileChooserDialogImpl/0.0.1376.744@0.0.1376.744" timestamp="1647533176214" />
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1376.744@0.0.1376.744" timestamp="1647619726527" />
+    <state x="469" y="127" key="FileChooserDialogImpl" timestamp="1647619713326">
+      <screen x="0" y="0" width="1376" height="744" />
+    </state>
+    <state x="469" y="127" key="FileChooserDialogImpl/0.0.1376.744@0.0.1376.744" timestamp="1647619713326" />
     <state width="1333" height="210" key="GridCell.Tab.0.bottom" timestamp="1647534402044">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
@@ -328,10 +338,10 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="473" y="284" key="VCS.ChangelistChooser/0.0.1376.744@0.0.1376.744" timestamp="1647534361232" />
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647617689983">
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647620056494">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647617689983" />
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647620056494" />
     <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1647534392636">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
@@ -340,10 +350,14 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="502" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.744@0.0.1376.744" timestamp="1647534151322" />
-    <state x="380" y="250" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1647617969150">
+    <state x="380" y="250" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1647620049635">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="380" y="250" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1376.744@0.0.1376.744" timestamp="1647617969150" />
+    <state x="380" y="250" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1376.744@0.0.1376.744" timestamp="1647620049635" />
+    <state x="462" y="270" key="git4idea.ui.GitStashDialog" timestamp="1647619702184">
+      <screen x="0" y="0" width="1376" height="744" />
+    </state>
+    <state x="462" y="270" key="git4idea.ui.GitStashDialog/0.0.1376.744@0.0.1376.744" timestamp="1647619702184" />
     <state x="448" y="160" key="git4idea.ui.GitUnstashDialog" timestamp="1647533519974">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
