@@ -2,7 +2,6 @@ C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\domain\
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\domain\teacher_information.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\boot_8080.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\controller\page_controller.java
-C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\grade.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\service\paper_scanner.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\domain\paper_information.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\configuration\shiro_realm.java
@@ -11,19 +10,15 @@ C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\domain\
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\service\student.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\service\paper.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\service\grade.java
-C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\paper.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\service\subject.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\service\teacher.java
-C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\subject.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\controller\login_controller.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\service\grade_statistics.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\service\paper_check_query.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\controller\teacher_pages_controller.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\service\Shiro_authorize.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\service\teacher_work.java
-C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\teacher.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\domain\shiro_roleAndPermission.java
-C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\student.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\configuration\configuration_shiro.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\domain\grade_all_information.java
 C:\Users\Lenovo\IdeaProjects\inteligent_school\src\main\java\com\example\dao\shiro\shiro_check_information.java

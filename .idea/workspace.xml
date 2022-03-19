@@ -8,10 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="可以">
+    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="修改了配置文件的mysql地址">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JupyterTrust" id="c6014639-22a5-4864-b55a-a5a08569c021" />
   <component name="MavenImportPreferences">
@@ -213,7 +213,7 @@
       <workItem from="1645972320839" duration="1519000" />
       <workItem from="1647529493725" duration="3059000" />
       <workItem from="1647617618107" duration="2449000" />
-      <workItem from="1647660622978" duration="2136000" />
+      <workItem from="1647660622978" duration="3309000" />
     </task>
     <task id="LOCAL-00001" summary="asd">
       <created>1647533936972</created>
@@ -243,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647660961772</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改了配置文件的mysql地址">
+      <created>1647663132441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647663132441</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +297,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="asd" />
     <MESSAGE value="可以" />
-    <option name="LAST_COMMIT_MESSAGE" value="可以" />
+    <MESSAGE value="修改了配置文件的mysql地址" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了配置文件的mysql地址" />
   </component>
   <component name="WindowStateProjectService">
     <state x="281" y="30" key="#Deployment" timestamp="1647533003180">
@@ -349,18 +357,18 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="473" y="284" key="VCS.ChangelistChooser/0.0.1376.744@0.0.1376.744" timestamp="1647534361232" />
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647661026328">
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647663163934">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647661026328" />
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647663163934" />
     <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1647534392636">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1376.744@0.0.1376.744" timestamp="1647534392636" />
-    <state x="502" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647534151322">
+    <state x="502" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647663157613">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="502" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.744@0.0.1376.744" timestamp="1647534151322" />
+    <state x="502" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1376.744@0.0.1376.744" timestamp="1647663157613" />
     <state x="380" y="250" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1647661020245">
       <screen x="0" y="0" width="1376" height="744" />
     </state>

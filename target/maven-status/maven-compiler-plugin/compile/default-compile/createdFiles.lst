@@ -6,10 +6,7 @@ com\example\domain\student_information.class
 com\example\domain\grade_information.class
 com\example\service\paper_scanner.class
 com\example\configuration\shiro_realm.class
-com\example\dao\subject.class
 com\example\dao\service\grade.class
-com\example\dao\teacher.class
-com\example\dao\grade.class
 com\example\service\Shiro_authorize.class
 com\example\domain\shiro_roleAndPermission.class
 com\example\service\grade_statistics.class
@@ -19,8 +16,6 @@ com\example\controller\login_controller.class
 com\example\domain\paper_subject_information.class
 com\example\dao\shiro\shiro_check_information.class
 com\example\controller\page_controller.class
-com\example\dao\paper.class
-com\example\dao\student.class
 com\example\domain\teacher_information.class
 com\example\controller\student_pages_controller.class
 com\example\dao\service\subject.class
