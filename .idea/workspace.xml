@@ -8,15 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="可以">
-      <change afterPath="$PROJECT_DIR$/../eurekaserver/eurekaserver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eurekaserver/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eurekaserver/src/main/java/com/maindemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eurekaserver/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eurekaserver/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../eurekaserver/target/classes/com/maindemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="可以" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="JupyterTrust" id="ce8beaa4-bbbe-47a0-8f0f-42db07ecc888" />
+  <component name="JupyterTrust" id="c6014639-22a5-4864-b55a-a5a08569c021" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -217,6 +209,7 @@
       <workItem from="1645972320839" duration="1519000" />
       <workItem from="1647529493725" duration="3059000" />
       <workItem from="1647617618107" duration="2449000" />
+      <workItem from="1647660622978" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="asd">
       <created>1647533936972</created>
@@ -232,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647534091950</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="可以">
+      <created>1647660902352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647660902352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
