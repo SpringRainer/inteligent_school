@@ -8,9 +8,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="修改了配置文件的mysql地址">
+    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="加载了war包">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/boot_8080.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/boot_8080.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/boot_8080.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/boot_8080.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/boot_8080.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/boot_8080.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-tomcat-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-core-9.0.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-el-9.0.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-websocket-9.0.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +44,7 @@
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="JupyterTrust" id="c6014639-22a5-4864-b55a-a5a08569c021" />
+  <component name="JupyterTrust" id="0fa2cba2-cb71-4d43-94fa-90442f785e1f" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -74,14 +87,21 @@
       <recent name="C:\Users\WB1500\IdeaProjects\inteligent_school\src\main\resources\static\css" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn dependency:copy-dependencies -DoutputDirectory=C:\Users\Lenovo\Desktop\jar包" />
+    </option>
+  </component>
   <component name="RunManager" selected="Spring Boot.boot_8080">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -213,7 +233,8 @@
       <workItem from="1645972320839" duration="1519000" />
       <workItem from="1647529493725" duration="3059000" />
       <workItem from="1647617618107" duration="2449000" />
-      <workItem from="1647660622978" duration="3309000" />
+      <workItem from="1647660622978" duration="7975000" />
+      <workItem from="1647677757033" duration="1857000" />
     </task>
     <task id="LOCAL-00001" summary="asd">
       <created>1647533936972</created>
@@ -250,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647663132441</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="加载了war包">
+      <created>1647664576952</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647664576952</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +326,8 @@
     <MESSAGE value="asd" />
     <MESSAGE value="可以" />
     <MESSAGE value="修改了配置文件的mysql地址" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了配置文件的mysql地址" />
+    <MESSAGE value="加载了war包" />
+    <option name="LAST_COMMIT_MESSAGE" value="加载了war包" />
   </component>
   <component name="WindowStateProjectService">
     <state x="281" y="30" key="#Deployment" timestamp="1647533003180">
@@ -313,38 +342,38 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="469" y="127" key="FileChooserDialogImpl/0.0.1376.744@0.0.1376.744" timestamp="1647619713326" />
-    <state width="1333" height="210" key="GridCell.Tab.0.bottom" timestamp="1647534402044">
+    <state width="1333" height="259" key="GridCell.Tab.0.bottom" timestamp="1647679572282">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="210" key="GridCell.Tab.0.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
-    <state width="1333" height="210" key="GridCell.Tab.0.center" timestamp="1647534402044">
+    <state width="1333" height="259" key="GridCell.Tab.0.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647679572282" />
+    <state width="1333" height="259" key="GridCell.Tab.0.center" timestamp="1647679572282">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="210" key="GridCell.Tab.0.center/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
-    <state width="1333" height="210" key="GridCell.Tab.0.left" timestamp="1647534402044">
+    <state width="1333" height="259" key="GridCell.Tab.0.center/0.0.1376.744@0.0.1376.744" timestamp="1647679572282" />
+    <state width="1333" height="259" key="GridCell.Tab.0.left" timestamp="1647679572282">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="210" key="GridCell.Tab.0.left/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
-    <state width="1333" height="210" key="GridCell.Tab.0.right" timestamp="1647534402044">
+    <state width="1333" height="259" key="GridCell.Tab.0.left/0.0.1376.744@0.0.1376.744" timestamp="1647679572282" />
+    <state width="1333" height="259" key="GridCell.Tab.0.right" timestamp="1647679572282">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="210" key="GridCell.Tab.0.right/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
-    <state width="1333" height="210" key="GridCell.Tab.1.bottom" timestamp="1647534402045">
+    <state width="1333" height="259" key="GridCell.Tab.0.right/0.0.1376.744@0.0.1376.744" timestamp="1647679572282" />
+    <state width="1333" height="259" key="GridCell.Tab.1.bottom" timestamp="1647679068609">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="210" key="GridCell.Tab.1.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647534402045" />
-    <state width="1333" height="210" key="GridCell.Tab.1.center" timestamp="1647534402044">
+    <state width="1333" height="259" key="GridCell.Tab.1.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647679068609" />
+    <state width="1333" height="259" key="GridCell.Tab.1.center" timestamp="1647679068609">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="210" key="GridCell.Tab.1.center/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
-    <state width="1333" height="210" key="GridCell.Tab.1.left" timestamp="1647534402044">
+    <state width="1333" height="259" key="GridCell.Tab.1.center/0.0.1376.744@0.0.1376.744" timestamp="1647679068609" />
+    <state width="1333" height="259" key="GridCell.Tab.1.left" timestamp="1647679068609">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="210" key="GridCell.Tab.1.left/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
-    <state width="1333" height="210" key="GridCell.Tab.1.right" timestamp="1647534402044">
+    <state width="1333" height="259" key="GridCell.Tab.1.left/0.0.1376.744@0.0.1376.744" timestamp="1647679068609" />
+    <state width="1333" height="259" key="GridCell.Tab.1.right" timestamp="1647679068609">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="210" key="GridCell.Tab.1.right/0.0.1376.744@0.0.1376.744" timestamp="1647534402044" />
+    <state width="1333" height="259" key="GridCell.Tab.1.right/0.0.1376.744@0.0.1376.744" timestamp="1647679068609" />
     <state x="423" y="92" key="RollbackChangesDialog" timestamp="1647533732131">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
@@ -357,10 +386,10 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="473" y="284" key="VCS.ChangelistChooser/0.0.1376.744@0.0.1376.744" timestamp="1647534361232" />
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647663163934">
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647664640814">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647663163934" />
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647664640814" />
     <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1647534392636">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
@@ -381,6 +410,10 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="448" y="160" key="git4idea.ui.GitUnstashDialog/0.0.1376.744@0.0.1376.744" timestamp="1647533519974" />
+    <state x="345" y="167" width="672" height="677" key="run.anything.popup" timestamp="1647666963438">
+      <screen x="0" y="0" width="1376" height="744" />
+    </state>
+    <state x="345" y="167" width="672" height="677" key="run.anything.popup/0.0.1376.744@0.0.1376.744" timestamp="1647666963438" />
     <state x="411" y="283" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1645973017582">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
