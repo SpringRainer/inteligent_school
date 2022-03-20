@@ -8,9 +8,56 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="修复所有问题可以上线">
+    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="可以上线">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controller/student_pages_controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/student_pages_controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/boot_8080.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/configuration/configuration_shiro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/configuration/shiro_realm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/login_controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/page_controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/student_pages_controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/teacher_pages_controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/paper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/shiro/shiro_check_information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/grade_all_information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/grade_information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/paper_information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/paper_subject_information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/shiro_roleAndPermission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/student_information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/subject_information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/teacher_information.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/Shiro_authorize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/grade_statistics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/paper_check_query.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/paper_scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/teacher_work.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/javascript/axios.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/javascript/jquery.qrcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/javascript/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/exception/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/login/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/paper/paper_scanner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/student/student_grade_query.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/teacher/teacher_check.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/teacher/teacher_check_homework.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/teacher/teacher_login_grade.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/realm_test_01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647679882493</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="可以上线">
+      <created>1647750270024</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647750270024</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,7 +374,8 @@
     <MESSAGE value="修改了配置文件的mysql地址" />
     <MESSAGE value="加载了war包" />
     <MESSAGE value="修复所有问题可以上线" />
-    <option name="LAST_COMMIT_MESSAGE" value="修复所有问题可以上线" />
+    <MESSAGE value="可以上线" />
+    <option name="LAST_COMMIT_MESSAGE" value="可以上线" />
   </component>
   <component name="WindowStateProjectService">
     <state x="281" y="30" key="#Deployment" timestamp="1647533003180">
@@ -379,10 +434,10 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="473" y="284" key="VCS.ChangelistChooser/0.0.1376.744@0.0.1376.744" timestamp="1647534361232" />
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647750223972">
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647750276209">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647750223972" />
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647750276209" />
     <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1647534392636">
       <screen x="0" y="0" width="1376" height="744" />
     </state>

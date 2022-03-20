@@ -45,5 +45,10 @@ public class student_pages_controller {
         return jsonArray.toString();
     }
 
+    @PostMapping("/test")
+    @ResponseBody
+    public String test(Model model, HttpServletRequest request) {
+        return  "你好微信小程序";
+    }
 
 }
