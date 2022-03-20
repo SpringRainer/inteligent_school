@@ -28,10 +28,10 @@ RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.tencent.com/g' /etc/apk/repositorie
 WORKDIR /app
 
 # 将构建产物jar包拷贝到运行时目录中
-COPY --from=build /app/target/springboot-wxcloudrun-1.0.jar .
+COPY --from=build /app/target/inteligent_school-1.0-SNAPSHOT.jar .
 
 # 暴露端口
 EXPOSE 80
 
 # 执行启动命令
-CMD ["java", "-jar", "/app/springboot-wxcloudrun-1.0.jar"]
+CMD ["java", "-jar", "/app/inteligent_school-1.0-SNAPSHOT.jar"]
