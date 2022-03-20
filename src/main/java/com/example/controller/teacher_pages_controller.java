@@ -24,7 +24,7 @@ public class teacher_pages_controller {
     public String teacher_check_paper(HttpServletRequest request) {
         //        System.out.println(paper_img_data);
 
-        return paper_check_query.getPaper_subject_json(request.getParameter("subject"));
+        return paper_check_query.getPaper_subject_json("语文");
     }
 
     @PostMapping("/paper_update")

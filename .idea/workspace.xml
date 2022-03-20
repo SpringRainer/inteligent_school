@@ -10,54 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="可以上线">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controller/student_pages_controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/student_pages_controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/boot_8080.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/configuration/configuration_shiro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/configuration/shiro_realm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/login_controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/page_controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/student_pages_controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/teacher_pages_controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/grade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/paper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/shiro/shiro_check_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/grade_all_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/grade_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/paper_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/paper_subject_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/shiro_roleAndPermission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/student_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/subject_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/teacher_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/Shiro_authorize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/grade_statistics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/paper_check_query.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/paper_scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/teacher_work.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/javascript/axios.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/javascript/jquery.qrcode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/javascript/vue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/exception/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/login/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/login/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/paper/paper_scanner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/student/student_grade_query.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/teacher/teacher_check.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/teacher/teacher_check_homework.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/teacher/teacher_login_grade.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/realm_test_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controller/teacher_pages_controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/teacher_pages_controller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,7 +277,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647750270024</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="可以上线">
+      <created>1647750894751</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647750894751</updated>
+    </task>
+    <task id="LOCAL-00010" summary="可以上线">
+      <created>1647750937276</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1647750937276</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,22 +357,22 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="469" y="127" key="FileChooserDialogImpl/0.0.1376.744@0.0.1376.744" timestamp="1647619713326" />
-    <state width="1333" height="221" key="GridCell.Tab.0.bottom" timestamp="1647743844355">
+    <state width="1333" height="221" key="GridCell.Tab.0.bottom" timestamp="1647750900004">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="221" key="GridCell.Tab.0.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647743844355" />
-    <state width="1333" height="221" key="GridCell.Tab.0.center" timestamp="1647743844354">
+    <state width="1333" height="221" key="GridCell.Tab.0.bottom/0.0.1376.744@0.0.1376.744" timestamp="1647750900004" />
+    <state width="1333" height="221" key="GridCell.Tab.0.center" timestamp="1647750900004">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="221" key="GridCell.Tab.0.center/0.0.1376.744@0.0.1376.744" timestamp="1647743844354" />
-    <state width="1333" height="221" key="GridCell.Tab.0.left" timestamp="1647743844354">
+    <state width="1333" height="221" key="GridCell.Tab.0.center/0.0.1376.744@0.0.1376.744" timestamp="1647750900004" />
+    <state width="1333" height="221" key="GridCell.Tab.0.left" timestamp="1647750900003">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="221" key="GridCell.Tab.0.left/0.0.1376.744@0.0.1376.744" timestamp="1647743844354" />
-    <state width="1333" height="221" key="GridCell.Tab.0.right" timestamp="1647743844355">
+    <state width="1333" height="221" key="GridCell.Tab.0.left/0.0.1376.744@0.0.1376.744" timestamp="1647750900003" />
+    <state width="1333" height="221" key="GridCell.Tab.0.right" timestamp="1647750900004">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state width="1333" height="221" key="GridCell.Tab.0.right/0.0.1376.744@0.0.1376.744" timestamp="1647743844355" />
+    <state width="1333" height="221" key="GridCell.Tab.0.right/0.0.1376.744@0.0.1376.744" timestamp="1647750900004" />
     <state width="1333" height="259" key="GridCell.Tab.1.bottom" timestamp="1647679068609">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
@@ -434,10 +401,10 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="473" y="284" key="VCS.ChangelistChooser/0.0.1376.744@0.0.1376.744" timestamp="1647534361232" />
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647750276209">
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647750944327">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647750276209" />
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647750944327" />
     <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1647534392636">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
