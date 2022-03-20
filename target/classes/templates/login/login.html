@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:v-on="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>登录界面</title>
+    <script src="/static/javascript/axios.min.js" type="text/javascript"></script>
+    <script src="/static/javascript/vue.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/static/css/bootstrap.css">
+</head>
+<body>
+<div class="container" id="app">
+    {{ops_application}}
+    <form class="form-control" method="post" style="width: fit-content" id="form_login" enctype="application/x-www-form-urlencoded" action="/get_information">
+       账号： <input type="text" value="" class="form-control-sm" name="user_name"/>
+       密码：<input type="password" value="" class="form-control-sm" name="user_password"/>
+        <input type="button" value="登录" class="decrement-button" v-on:click="login()">
+        <input type="button" value="注册" class="decrement-button"/>
+    </form>
+
+    <input type="button" v-on:click="test" value="测试vue">
+</div>
+</body>
+<script type="text/javascript">
+    var vue = new Vue({
+        el: "#app",
+        data: {
+            ops_application: "hello world"
+        },
+        methods: {
+            test: function () {
+                alert(document.getElementsByName("user_name").item(0).value);
+                alert(document.getElementsByName("user_password").item(0).value)
+            },
+
+            login: function () {
+                var date_se = new URLSearchParams();
+                date_se.append("user_name",document.getElementsByName("user_name").item(0).value);
+                date_se.append("user_password",document.getElementsByName("user_password").item(0).value);
+                axios({
+                    method: 'POST',
+                    url: '/get_information',
+                    data: date_se
+                }).then(function (value) {
+                    console.log(value.data);
+                    location.href = "/home";
+                }).catch(function (reason) {
+                    console.log(reason);
+                    location.href="/failure"
+                });
+                // return false;
+            }
+        }
+    });
+</script>
+</html>
