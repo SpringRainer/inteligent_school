@@ -8,162 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="修复所有问题可以上线">
+    <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="可以上线">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/boot_8080.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/boot_8080.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/configuration/configuration_shiro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/configuration/configuration_shiro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/configuration/shiro_realm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/configuration/shiro_realm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/login_controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/controller/login_controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/page_controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/controller/page_controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/student_pages_controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/controller/student_pages_controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/teacher_pages_controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/controller/teacher_pages_controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/grade.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/grade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/paper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/paper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/subject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/service/teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/dao/service/teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/dao/shiro/shiro_check_information.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/dao/shiro/shiro_check_information.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/grade_all_information.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/domain/grade_all_information.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/grade_information.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/domain/grade_information.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/paper_information.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/domain/paper_information.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/paper_subject_information.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/domain/paper_subject_information.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/shiro_roleAndPermission.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/domain/shiro_roleAndPermission.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/student_information.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/domain/student_information.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/subject_information.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/domain/subject_information.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/domain/teacher_information.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/domain/teacher_information.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/Shiro_authorize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/service/Shiro_authorize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/grade_statistics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/service/grade_statistics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/paper_check_query.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/service/paper_check_query.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/paper_scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/service/paper_scanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/service/teacher_work.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/service/teacher_work.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/boot_8080.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/configuration/configuration_shiro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/configuration/shiro_realm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/controller/login_controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/controller/page_controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/controller/student_pages_controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/controller/teacher_pages_controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/service/grade.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/service/paper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/service/student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/service/subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/service/teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/dao/shiro/shiro_check_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/grade_all_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/grade_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/paper_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/paper_subject_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/shiro_roleAndPermission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/student_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/subject_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/domain/teacher_information.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/Shiro_authorize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/grade_statistics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/paper_check_query.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/paper_scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/com/example/service/teacher_work.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/static/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/static/javascript/axios.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/static/javascript/jquery.qrcode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/static/javascript/vue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/templates/exception/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/templates/login/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/templates/login/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/templates/paper/paper_scanner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/templates/student/student_grade_query.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/templates/teacher/teacher_check.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/templates/teacher/teacher_check_homework.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/classes/templates/teacher/teacher_login_grade.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/HikariCP-3.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/accessors-smart-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/android-json-0.0.20131108.vaadin1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/asm-5.0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/assertj-core-3.11.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/attoparser-2.0.5.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/byte-buddy-1.9.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/byte-buddy-agent-1.9.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/encoder-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.60.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-library-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/hibernate-validator-6.0.16.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jackson-datatype-jdk8-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jackson-datatype-jsr310-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jackson-module-parameter-names-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/javax.annotation-api-1.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/json-path-2.4.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/json-smart-2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jsonassert-1.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/log4j-api-2.11.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/log4j-to-slf4j-2.11.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/lombok-1.18.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/mockito-core-2.23.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-2.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-boot-autoconfigure-2.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-boot-starter-2.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/objenesis-2.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-cache-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-config-core-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-config-ogdl-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-core-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-crypto-cipher-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-crypto-core-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-crypto-hash-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-event-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-lang-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-spring-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/shiro-web-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.26.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/snakeyaml-1.23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-jdbc-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-json-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-test-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-thymeleaf-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-test-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-test-autoconfigure-2.1.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/thymeleaf-3.0.11.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/thymeleaf-extras-java8time-3.0.4.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/thymeleaf-spring5-3.0.11.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/unbescape-1.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT/WEB-INF/lib/xmlunit-core-2.6.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/realm_test_01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/realm_test_01.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +31,7 @@
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="JupyterTrust" id="2de8f7e5-2456-420d-aa6a-b07997033f7a" />
+  <component name="JupyterTrust" id="2bdbc6b1-44e5-4b72-aff6-8e1aa967c124" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -207,7 +54,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jars" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -374,6 +221,7 @@
       <workItem from="1647660622978" duration="7975000" />
       <workItem from="1647677757033" duration="3744000" />
       <workItem from="1647736800614" duration="5137000" />
+      <workItem from="1647744071445" duration="3134000" />
     </task>
     <task id="LOCAL-00001" summary="asd">
       <created>1647533936972</created>
@@ -424,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647679882493</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="可以上线">
+      <created>1647744216259</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647744216259</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,7 +329,8 @@
     <MESSAGE value="修改了配置文件的mysql地址" />
     <MESSAGE value="加载了war包" />
     <MESSAGE value="修复所有问题可以上线" />
-    <option name="LAST_COMMIT_MESSAGE" value="修复所有问题可以上线" />
+    <MESSAGE value="可以上线" />
+    <option name="LAST_COMMIT_MESSAGE" value="可以上线" />
   </component>
   <component name="WindowStateProjectService">
     <state x="281" y="30" key="#Deployment" timestamp="1647533003180">
@@ -485,10 +341,10 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="274" y="0" key="CommitChangelistDialog2/0.0.1376.744@0.0.1376.744" timestamp="1647619726527" />
-    <state x="469" y="127" key="FileChooserDialogImpl" timestamp="1647619713326">
+    <state x="469" y="127" key="FileChooserDialogImpl" timestamp="1647747687468">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="469" y="127" key="FileChooserDialogImpl/0.0.1376.744@0.0.1376.744" timestamp="1647619713326" />
+    <state x="469" y="127" key="FileChooserDialogImpl/0.0.1376.744@0.0.1376.744" timestamp="1647747687468" />
     <state width="1333" height="221" key="GridCell.Tab.0.bottom" timestamp="1647743844355">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
@@ -533,10 +389,10 @@
       <screen x="0" y="0" width="1376" height="744" />
     </state>
     <state x="473" y="284" key="VCS.ChangelistChooser/0.0.1376.744@0.0.1376.744" timestamp="1647534361232" />
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647679891160">
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2" timestamp="1647747850135">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
-    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647679891160" />
+    <state x="281" y="105" key="Vcs.Push.Dialog.v2/0.0.1376.744@0.0.1376.744" timestamp="1647747850135" />
     <state x="445" y="106" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1647534392636">
       <screen x="0" y="0" width="1376" height="744" />
     </state>
