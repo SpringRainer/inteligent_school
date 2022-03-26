@@ -9,11 +9,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f943a9c-daea-4737-86dc-493608319097" name="Default Changelist" comment="可以上线">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controller/teacher_pages_controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/controller/teacher_pages_controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/controller/teacher_pages_controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/controller/teacher_pages_controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/inteligent_school-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="JupyterTrust" id="2bdbc6b1-44e5-4b72-aff6-8e1aa967c124" />
+  <component name="JupyterTrust" id="ec8ee8dc-a1c8-45a7-a4e6-244c7ebda124" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -81,34 +82,7 @@
       <command value="mvn dependency:copy-dependencies -DoutputDirectory=C:\Users\Lenovo\Desktop\jar包" />
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.boot_8080">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="realm_test_01.domain_test_01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="inteligent_school" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example" />
-      <option name="MAIN_CLASS_NAME" value="com.example.realm_test_01" />
-      <option name="METHOD_NAME" value="domain_test_01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Docker.Dockerfile">
     <configuration name="realm_test_01.domain_test_02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inteligent_school" />
       <extension name="coverage">
@@ -170,13 +144,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Spring Boot.boot_8080" />
         <item itemvalue="JUnit.realm_test_01.domain_test_02" />
         <item itemvalue="JUnit.realm_test_01.domain_test_04" />
         <item itemvalue="JUnit.realm_test_01.domain_test_03" />
-        <item itemvalue="JUnit.realm_test_01.domain_test_01" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +211,7 @@
       <workItem from="1647660622978" duration="7975000" />
       <workItem from="1647677757033" duration="3744000" />
       <workItem from="1647736800614" duration="5137000" />
+      <workItem from="1648306885376" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="asd">
       <created>1647533936972</created>
