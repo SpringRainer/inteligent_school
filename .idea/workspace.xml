@@ -83,6 +83,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="realm_test_01.domain_test_02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inteligent_school" />
       <extension name="coverage">
